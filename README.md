@@ -18,7 +18,7 @@
 
 ## 如何游玩
 
-访问 GitHub Pages：https://doctorblaza.github.io/ru-zhi-di-yi-tian/
+访问 GitHub Pages：https://doctorblaza.github.io/alwaysday1/
 
 或本地直接用浏览器打开 `index.html`。
 
